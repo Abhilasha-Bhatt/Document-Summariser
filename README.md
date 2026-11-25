@@ -1,8 +1,6 @@
 # Document Summarizer
 
-A lightweight Streamlit application for generating quick extractive summaries from uploaded documents. The app extracts text from supported file formats, processes it with NLTK, and returns a concise summary based on sentence importance.
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://document-summary3.streamlit.app/)
+A lightweight Streamlit application for generating quick extractive summaries from uploaded documents. The app extracts text from supported file formats, processes it with NLTK, and returns a concise summary based on sentence importance
 
 ## Usage
 
